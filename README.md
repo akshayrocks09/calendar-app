@@ -32,5 +32,4 @@ A **production-ready Google Calendar clone** built with React. This app features
 npx create-react-app calendar-app
 cd calendar-app
 npm install lucide-react
-# Replace App.js & index.css with provided code
 npm start
