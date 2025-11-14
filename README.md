@@ -1,3 +1,8 @@
+## 🌐 Live Demo
+
+Check out the live version of the Calendar App here:  
+[https://akshayrocks09.github.io/calendar-app](https://akshayrocks09.github.io/calendar-app)
+
 # 📅 Calendar  - React App
 
 A **production-ready Google Calendar clone** built with React. This app features a monthly calendar view, event display, conflict detection, and a responsive, clean UI. Perfect for learning, customization, or production use.
